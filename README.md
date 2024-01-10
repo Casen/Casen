@@ -1,5 +1,8 @@
 ### Hi there, I'm Casen 👋
 I've been tinkering with computers and writing software since 1997. I've made a career of translating far-reaching visions into tangible realities, and my curiousity has led me far and wide: from working on race cars, to doing finish carpentry and baking sourdough bread.
+
+
+
 <!--
 **Casen/Casen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🏆 My Stats:
@@ -23,4 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about the nature of Mind
 - ⚡ Fun fact: I used to sell Churros at Disneyland
 
-
+## Get In Touch
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/casendavis/) &nbsp;
